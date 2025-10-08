@@ -1,5 +1,7 @@
 # 💻 Program Kasir Festival Musik (OOP - Java)
 
+<img width="836" height="820" alt="image" src="https://github.com/user-attachments/assets/52b3037c-1f3b-46ea-b006-f1035309e99e" />
+
 ---
 
 ## 📘 Deskripsi Proyek
